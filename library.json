@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-light-cup",
+  "title": "light-cup",
+  "keywords": "light-cup, esp32, esp8266, arduino",
+  "description": "light-cup plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-light-cup/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-light-cup/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
