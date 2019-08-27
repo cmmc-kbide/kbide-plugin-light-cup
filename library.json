@@ -1,17 +1,17 @@
 {
   "name" : "kbide-plugin-light-cup",
-  "title": "light-cup",
+  "title": "KY-027 MAGIC LIGHT CUP MODULE",
   "keywords": "light-cup, esp32, esp8266, arduino",
   "description": "light-cup plugin for KB-IDE",
   "category":"",
   "git": "https://github.com/cmmc-kbide/kbide-plugin-light-cup/",
-  "author": "cmmakerclub",
+  "author": "Apinun",
   "email": "",
   "url": "https://github.com/cmmc-kbide/kbide-plugin-light-cup/",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "board" : "",
   "platform": ["arduino-esp32"],
   "license": "",
-  "image" : "/static/display.png",
+  "image" : "/static/display.jpg",
   "homepage": "http://www.kbide.org"
 }
