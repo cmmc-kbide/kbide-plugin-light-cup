@@ -1,6 +1,6 @@
 module.exports = [
     {
-        name: "photo_resistor_block",
+        name: "LIGHT CUP",
         blocks: [
             {
               xml: `<block type="light_cup_block">
